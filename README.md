@@ -50,11 +50,6 @@
  <img align="center" src="https://img.shields.io/badge/-valdenio_f-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=SouzaValdenio&layout=wide&show_reply=off&show_retweet=off" />
-
-![Snake animation](https://github.com/valdenioferreira/valdenioferreira/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **valdenioferreira/valdenioferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
