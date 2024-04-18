@@ -25,7 +25,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
 ![PYHTON](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=PYTHON)&nbsp;
 
 <br><br>
